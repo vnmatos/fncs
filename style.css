@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+
+body{
+
+    background-image: url(imagens-usadas/backgroundimage.jpg_large);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    text-align: justify;
+    color: black;
+
+
+}
+
+
+
+main{
+
+    background-color: white;
+    width: 1000px;
+    height: 2500px;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+h1{
+    color: white;
+    background-color: #ec273f;
+    width: 680px;
+    height: 70px;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom:5px;
+    padding-left: 20px;
+    box-shadow: 0px 0px 30px #acacac;
+    
+}
+
+h2{
+    color: #ec273f;
+    font-size: 40px;
+    background-color: #e6e6f2;
+    width: 400px;
+    height: 90px;
+    padding-top: 30px;
+    padding-left: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 30px #acacac;
+}
+
+h3{
+    text-align: center;
+    color: #ec273f;
+    font-size: 40px;
+}
+
+p{
+    padding-right: 15px;
+   
+}
+
+
+a{
+    color: #ec273f;
+    text-decoration: none;
+}
+
+
+
+img{
+    box-shadow: 0px 0px 30px rgb(199, 199, 199);
+}
